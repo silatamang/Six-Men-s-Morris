@@ -1,0 +1,7 @@
+C:\Users\bmcar\OneDrive\Software Engineering\SixMensAI-CS\SixMensAI-CS\bin\Release\SixMensAI-CS.exe.config
+C:\Users\bmcar\OneDrive\Software Engineering\SixMensAI-CS\SixMensAI-CS\bin\Release\SixMensAI-CS.exe
+C:\Users\bmcar\OneDrive\Software Engineering\SixMensAI-CS\SixMensAI-CS\bin\Release\SixMensAI-CS.pdb
+C:\Users\bmcar\OneDrive\Software Engineering\SixMensAI-CS\SixMensAI-CS\obj\Release\SixMensAI-CS.csprojResolveAssemblyReference.cache
+C:\Users\bmcar\OneDrive\Software Engineering\SixMensAI-CS\SixMensAI-CS\obj\Release\SixMensAI-CS.csproj.CoreCompileInputs.cache
+C:\Users\bmcar\OneDrive\Software Engineering\SixMensAI-CS\SixMensAI-CS\obj\Release\SixMensAI-CS.exe
+C:\Users\bmcar\OneDrive\Software Engineering\SixMensAI-CS\SixMensAI-CS\obj\Release\SixMensAI-CS.pdb

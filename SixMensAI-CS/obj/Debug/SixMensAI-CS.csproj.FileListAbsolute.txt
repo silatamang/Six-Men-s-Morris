@@ -1,0 +1,14 @@
+C:\Users\bmcar\OneDrive\Software Engineering\SixMensAI-CS\SixMensAI-CS\bin\Debug\SixMensAI-CS.exe.config
+C:\Users\bmcar\OneDrive\Software Engineering\SixMensAI-CS\SixMensAI-CS\bin\Debug\SixMensAI-CS.exe
+C:\Users\bmcar\OneDrive\Software Engineering\SixMensAI-CS\SixMensAI-CS\bin\Debug\SixMensAI-CS.pdb
+C:\Users\bmcar\OneDrive\Software Engineering\SixMensAI-CS\SixMensAI-CS\obj\Debug\SixMensAI-CS.csprojResolveAssemblyReference.cache
+C:\Users\bmcar\OneDrive\Software Engineering\SixMensAI-CS\SixMensAI-CS\obj\Debug\SixMensAI-CS.csproj.CoreCompileInputs.cache
+C:\Users\bmcar\OneDrive\Software Engineering\SixMensAI-CS\SixMensAI-CS\obj\Debug\SixMensAI-CS.exe
+C:\Users\bmcar\OneDrive\Software Engineering\SixMensAI-CS\SixMensAI-CS\obj\Debug\SixMensAI-CS.pdb
+C:\Users\Bryan\OneDrive\Software Engineering\SixMensAI-CS\SixMensAI-CS\obj\Debug\SixMensAI-CS.csprojResolveAssemblyReference.cache
+C:\Users\Bryan\OneDrive\Software Engineering\SixMensAI-CS\SixMensAI-CS\obj\Debug\SixMensAI-CS.csproj.CoreCompileInputs.cache
+C:\Users\Bryan\OneDrive\Software Engineering\SixMensAI-CS\SixMensAI-CS\obj\Debug\SixMensAI-CS.exe
+C:\Users\Bryan\OneDrive\Software Engineering\SixMensAI-CS\SixMensAI-CS\obj\Debug\SixMensAI-CS.pdb
+C:\Users\Bryan\OneDrive\Software Engineering\SixMensAI-CS\SixMensAI-CS\bin\Debug\SixMensAI-CS.exe.config
+C:\Users\Bryan\OneDrive\Software Engineering\SixMensAI-CS\SixMensAI-CS\bin\Debug\SixMensAI-CS.exe
+C:\Users\Bryan\OneDrive\Software Engineering\SixMensAI-CS\SixMensAI-CS\bin\Debug\SixMensAI-CS.pdb
